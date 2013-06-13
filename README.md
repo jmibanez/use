@@ -19,7 +19,8 @@ doubler. I also have a bunch of external hard disks, and a Firewire
 I prefer to use my [Sennheiser PX-100-II i](http://www.amazon.com/Sennheiser-PX-100-II-Supra-Aural-Headset/dp/B003WV8PKG) headset when listening to music.
 
 I also have an iPhone 4S as both a dev device and my actual phone; I
-had an iPhone 4 before that.
+had an iPhone 4 before that. I also have a Blackberry Playbook that I
+use quite sparingly.
 
 Gaming-wise, I only have a Nintendo DS Lite, and somewhere in my
 closet I have a working Nintendo Gameboy.
