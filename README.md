@@ -30,7 +30,7 @@ closet I have a working Nintendo Gameboy.
 * Emacs for editing (among other things...)
 * Git for version control
 * Safari for browsing; occasionally Chrome for testing
-* DevonThink Pro for bookmarks and notes
+* DEVONthink Pro for bookmarks and notes
 * Spideroak for backups and secure storage
 * Dropbox for sharing
 * Sparrow for mail (hosted on GMail)
