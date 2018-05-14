@@ -29,9 +29,7 @@ I also use a refurbished Das Keyboard when I can at home.
 My choice of headsets has changed. Previously, I opted for a
 [Sennheiser PX-100-II
 i](https://www.amazon.com/Sennheiser-PX-100-II-Supra-Aural-Headset/dp/B003WV8PKG)
-headset, but switched to using an AudioTechnica ATH-M50 (no longer
-sold, but the [ATH-M50X is more-or-less the same, with a replaceable
-cable](https://www.amazon.com/Audio-Technica-ATH-M50x-Professional-Monitor-Headphones/dp/B00HVLUR86/ref=sr_1_3?ie=UTF8&qid=1526327239&sr=8-3&keywords=audiotechnica+ath-m50)
+headset, but switched to using an AudioTechnica ATH-M50[^1]
 at my desk, since the PX-100-IIs can be pretty noisy, being
 open-backed. I commute with a pair of [Advanced M4 in-ear
 monitors](https://www.amazon.com/M4-Headphones-Controller-Tangle-Free-Sound/dp/B071JRHDL7)
@@ -74,3 +72,9 @@ list:
 * A Cobalt server
 
 And the list goes on...
+
+---
+
+[^1] The ATH-M50 is no longer sold, but the [ATH-M50X is more-or-less
+     the same, with a replaceable
+     cable](https://www.amazon.com/Audio-Technica-ATH-M50x-Professional-Monitor-Headphones/dp/B00HVLUR86/ref=sr_1_3?ie=UTF8&qid=1526327239&sr=8-3&keywords=audiotechnica+ath-m50))
